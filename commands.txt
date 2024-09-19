@@ -16,3 +16,9 @@ git push
 git fetch
 git clone 
 git add 
+git diff
+git merge 
+git --rebase
+git stash
+git squash
+
