@@ -10,4 +10,9 @@ git config --global user.name
 git config --global user.email
 git checkout -b
 git branch
-git remote -v 
+git remote -v
+git remote set-url --add
+git push 
+git fetch
+git clone 
+git add 
